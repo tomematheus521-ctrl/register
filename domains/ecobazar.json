@@ -1,8 +1,12 @@
 {
   "owner": {
-    "username": "tomematheus521-ctrl"
+    "username": "tomematheus521-ctrl",
+    "email": "tomematheus521@gmail.com"
   },
   "records": {
     "CNAME": "ecobazar-ita.tomematheus521.workers.dev"
+  },
+  "services": {
+    "website": "https://ecobazar-ita.tomematheus521.workers.dev/"
   }
 }
